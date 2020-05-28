@@ -1,0 +1,732 @@
+Version 3.5.5
+* Added - Compatibility with WordPress 5.4 (tested and working good)
+* Added - Custom accent and heading color options for AMP posts
+* Added - Option to set pinterest content height for pinterest widget
+* Added - New AMP mode in theme settings where all Gillion optimizations can be disabled
+* Improved - Theme dashboard styling
+* Improved - Pinterest widget now accepts also pin and user profile links
+* Fixed - Theme dashboard customize page backend options link doesn't work correctly
+* Fixed - Header layout "With ad place" banner link doesn't open in new tab
+* Fixed - Pinterest widget is not working correctly with direct links
+
+Version 3.5.4
+* Updated - Slider Revolution plugin to the latest version
+* Updated - Yellow Pencil Pro to the latest version
+* Fixed - An AMP component script tag is present more than once in the document
+* Fixed - Post content list font size is larger on mobile that needed
+
+Version 3.5.3
+* Added - AMP section in theme settings
+* Added - Multiple new color and size options for AMP
+* Added - Option to disable Gillion AMP compatibility mode
+* Updated - Slider Revolution plugin to the latest version
+* Fixed - CSS releated issues in AMP
+* Fixed - W3 Total Cache compatibility issue with blog page
+
+Version 3.5.2
+* Added - AMP support
+* Updated - Yellow Pencil Pro to the latest version
+* Updated - Default accent colors in the theme settings
+* Fixed - Dropdown navigation doesn't work in Internet Explorer (JS error)
+
+Version 3.5.1
+* Added - Option to add Copyright text for main post media
+* Added - Author element for WPbakery page builder
+* Improved - WooCommerce single product page design
+* Improved - Added hover actions for author information box links
+* Updated - Slider Revolution plugin to the latest version
+* Fixed - Author box in some cases doesn't display in single page
+* Fixed - Category switch in some cases have wrong line height in post page
+* Fixed - Single post content have no bottom space in some cases
+
+Version 3.5.0
+* Added - Journal demo
+* Added - Option to change content width from 1000 to 1600 px
+* Added - New style for post categories under theme settings
+* Added - Option to add WPbakery content on top of header where you can put anything
+* Added - Option to add local audio and video files to single post page
+* Added - Option to add sort by sale in WooCommerce products page sort by button
+* Added - Option to change post meta information font size and font family
+* Improved - Block editor experience by increasing block width closes as it is to frontend
+* Improved - Plugin installation notice won't be shown even for second on new post and edit post pages
+* Improved - Reduced WooCommerce product thumbnail image size
+* Improved - Social counter widget style2 now better adjusts for sidebar width
+* Improved - Blog text slider style 6 by adding prev/next post swtich and improving responsiveness
+* Updated - Slider Revolution plugin to the latest version
+* Updated - Yellow Pencil Pro to the latest version
+* Updated - WooCommerce files to the latest versions
+* Fixed - When adding new post theme settings custom font isn't loading
+* Fixed - Single blog post page count PHP notice in specific cases
+* Fixed - WPBakery Masonry Media Grid not working when blog widgets are enabled
+* Fixed - Header standard layout shows some desktop related elements
+* Fixed - Shop icon doesn't show in mobile header
+* Fixed - Post single scrolling issue, when post share is enabled, but empty
+* Fixed - Description Length option in theme settings doesn't work in some cases
+* Fixed - Social share don't work when in post style and loaded under load more button
+* Fixed - Customizer color option selected color have incorect height
+* Fixed - Blog posts with video and audio format shows large white space if media content not available
+* Fixed - Sharing post link in social networks post thumnail image doesn't show up
+* Fixed - Simple line icons font files can't be removed by plugin that removes query strings
+* Fixed - Header navigation category page active indicator doesn't work
+* Fixed - WooCommerce variations images doesn't change
+
+Version 3.4.8
+* Added - Option to change the way dynamic theme CSS is stored and generated
+* Updated - WPbakery Page Builder to the latest version
+* Fixed - WPbakery page builder can't save template
+* Fixed - Theme settings color option box styling issue
+* Fixed - WooCommerce variable product single page variations styling issue
+* Fixed - WooCommerce variable product sale tag PHP notice issue
+
+Version 3.4.7
+* Added - Option to change author posts page layout
+* Fixed - Unyson demo importer doesn't work after our server upgrades
+* Fixed - Footer widgets can't be disabled in search page
+
+Version 3.4.6
+* Improved - Theme setting input fields
+* Improved - Custom CSS/JS fields are now larger for more ease of use
+* Fixed - Custom CSS is not working in some cases after last update
+
+Version 3.4.5
+* Added - Option to enable or disable titlebar breadcrumbs
+* Updated - Slider Revolution plugin to the latest version
+* Updated - Yellow Pencil Pro to the latest version
+* Improved - Custom CSS backend functionality
+* Fixed - Sprintf() related issue for header navigation
+* Fixed - Titlebar shows empty or wrong title in some specific cases
+
+Version 3.4.4
+* Added - New page/post settings design
+* Added - New options for post page settings
+* Added - Post template option in theme settings under post section (meant for WPbakery Page Builder built structure)
+* Added - Various basic elements related to building post page template structure in WPbakery page builder
+* Added - Forgot password link inside header login popup form
+* Updated - Slider Revolution plugin to the latest version
+* Improved - Small improvements in theme settings design
+* Fixed - Smooth scrolling can't be disabled in some cases
+* Fixed - Print preview not working correctly
+
+Version 3.4.3
+* Fixed - Can't click on category, author and other meta tags in single post whtn title top option is selected
+* Fixed - PHP related error when Autopmize plugin is enabled and trying to edit in WPbakery page builder
+* Fixed - Something went wrong with the plugin API when installing plugins
+
+Version 3.4.2
+* Added - Set any WPbakery builder page as 404 page in theme settings
+* Updated - Yellow Pencil Pro to 7.2.4 version
+* Updated - Footer section now removes beta tag
+* Fixed - Smooth scroll causing JavaScript issues in iframe
+
+Version 3.4.1
+* Added - WooCommerce 3.7 compatibility
+* Added - Option for blog post author profiles to add public email icon
+* Improved - Gillion dashboard design consistency
+* Updated - WPBakery Page Builder page builder plugin to the latest version
+* Updated - Slider Revolution plugin to the latest version
+* Updated - Gillion dashboard branding
+* Fixed - Share button can't be disabled on mobile
+* Fixed - Video post type lightbox video doesn't work on desktop
+* Fixed - Missing .pot translation file
+
+Version 3.4.0
+* Added - Templates page to Gillion dashboard
+* Added - System status page to Gillion dashboard
+* Added - Contact Form 7 to recommended plugins
+* Improved - Gillion dashboard page changelog now shows last 10 versions content
+* Improved - Gillion dashboard page design and it's content
+* Improved - Install plugin page design and ease of use
+* Improved - Theme Settings page design
+* Improved - Import demo page design and ease of use
+* Updated - WPBakery Page Builder page builder plugin to the latest version
+* Updated - Slider Revolution plugin to the latest version
+* Updated - Yellow Pencil plugin to the latest version
+* Updated - Envato Market plugin to the latest version
+* Fixed - Support forum page won't allow to login via dashboard
+* Fixed - WPBakery Page Builder comptatibility with the latest versions
+* Fixed - Blog posts categories element posts won't show in style 1
+
+Version 3.3.0
+* Added - Option to change image sizes for about us widget
+* Improved - Moved single post meta data option from blog tab to post tab
+* Updated - Translation .pot file
+* Fixed - PHP related warning in single post page when related posts block is disabled
+* Fixed - PHP related warning when using blog posts categories in some specific situations
+* Fixed - Post style standard with title at the top didn't show featured image
+* Fixed - Post read time counter now counts all words even if read more is used
+
+Version 3.2.4
+* Added - New option to remove developer copyrights under footer
+* Fixed - Header logo and other image changes doesn't update live in customizer
+* Fixed - Can't rewrite social counter widget with child theme
+* Fixed - In blog posts content multiple WPbakery page builder columns doesn't work
+* Fixed - In blog posts content unnecessary empty spaces
+* Fixed - Social share icons cause error when none social media is selected
+* Removed - Google Plus social network from social media options as its service is stopped
+
+Version 3.2.3
+* Addded - Compatibility with WooCommerce 3.6 version
+* Updated - Yellow Pencil Pro to 7.2.1 version
+
+Version 3.2.2
+* Updated - Yellow Pencil Editor to 7.2.0 version. Please update as all version bellow have security issues!
+* Fixed - Can't rewrite social counter widget with child theme
+
+Version 3.2.1
+* Fixed - Blog posts basic element load more issue with multiple elements in the same page
+* Fixed - Blog posts basic category name sometimes doesn't work by slug
+* Fixed - Javascript error in latest chrome versions (Unable to preventDefault inside passive event listener)
+
+Version 3.2.0
+* Added - Import / export option for theme settings
+* Added - Options to enable/disable and change meta information for blog posts (under Theme Settings > Blog)
+* Added - Option to disable header social share dropdown
+* Added - Option to disable enhanced post gallery for other post gallery plugins to work
+* Added - Twitter for Shufflehound Social Counter widget
+* Improved - Jevelin theme settings page loading animation
+* Updated - Revolution Slider to the latest version
+* Updated - Theme settings color scheme and logo
+* Updated - WooCommerce included files to the latest version
+* Updated - Shufflehound Social Counter to version 2 with various improvments
+* Removed - Shufflehound Social counter widget google plus social network (because google plus is closed)
+* Fixed - On startup in admin panel new post/page/portfolio showing unstyled information
+* Fixed - Blog posts basic element and blog page offset option not working correctly when using load more feature
+* Fixed - Image border radius remove feature now removes it for even more elements
+* Fixed - Masonry (standard) layout not working for blog basic posts element
+* Fixed - Random image gap in some cases in post content
+* Fixed - Theme settings sidebar icons wrong order
+* Fixed - Shufflehound Social counter widget won't update likes/follower count
+
+Version 3.1.4
+* Added - Read it later page
+* Added - Option to enable or diable border radius for images
+* Added - New header style (Logo With Background / Navigation at bottom)
+* Added - Option to set widget title font
+* Added - Text underline and padding options for button element
+* Added - Footer Widgets Title and icon elements for WPbakery page builder
+* Removed - Google Plus from demo mode in social counter widget
+* Improved - WPbakery page builder element icons
+* Fixed - Read it later button not working in mobile
+* Fixed - Footer widgets can't be disabled in category and 404 pages
+* Fixed - Footer builder CSS not working correctly in some pages
+
+Version 3.1.3
+* Updated - Yellow Pencil plugin to the latest version
+* Improved - Theme settings header logo descriptions and order for better ease of use
+* Fixed - Fatal error while editing posts in some cases
+
+Version 3.1.2
+* Added - New notices in both Unyson and OCDI demo installer pages
+* Improved - Jevelin > One Click Install link now reddirects to installation page if not installed
+* Fixed - Blog posts basic element categories not working when load more is enabled
+
+Version 3.1.1
+* Improved - Theme Settings grammar, typos and overall option text consistency (big thanks to theme user)
+* Updated - WPbakery Page builder to the latest version
+* Updated - Revolution Slider to the latest version
+* Fixed - Gutenberg post type related issue
+* Fixed - WPBakery Empty space element ID option doesn't work
+* Fixed - Documentation isn't included inside Documentation folder
+
+Version 3.1.0
+* Added - News demo
+* Added - New header style
+* Added - Option to disable blog posts description
+* Added - 2 new blog slider element layouts
+* Added - Posts Per Slide option for Recent Posts widget
+* Added - Section Tabs Style option in theme settings
+* Added - WPbakery extra options for bot inner row and inner column
+* Added - WPbakery row, column options like shadow, border in responsive,
+set max width, set max width alignment, set background hover image, set zindex and more
+* Added - Option to change header topbar navigation and header navgigation dropdown text size
+* Added - Section title font size and text transformation in Theme Settings > Content
+* Improved - Review popups in some cases now use assigned colors
+* Improved - WPbakery Revolution Slider element
+* Improved - Theme settings have seperate Topbar tab with all its options
+* Improved - Theme settings ease of use
+* Improved - Overall compatibility with Wordpress 5.0 / Gutenberg
+* Fixed - While using Gutenberg sometimes page settings is being reset
+* Fixed - Wrong fonts in gutenberg editor page
+* Fixed - Post format meta boxes doesn't work in Gutenberg
+* Fixed - WPbakery page builder fatal error in some cases
+* Fixed - WPbakery footer prevents from editing main content
+* Fixed - Footer builder realted issue affecting other posts and pages
+* Fixed - Post format types is not working in Gutenberg
+* Other - Various other improvements
+
+Version 3.0.1
+* Fixed - Gillion templates duplicate tabs in WPBakery page builders
+* Fixed - Bookmark login popup doesn't work in some cases
+* Fixed - Customizer widget options isn't working
+* Fixed - JavaScript issue when social media is enabled, but all individual icons are disabled
+* Fixed - JavaScript issue related to WooCommerce product categories widget
+* Fixed - Can't include some of the Shufflehound widgets multiple times in one widget area
+* Fixed - Instagram widget doesn't work in some cases
+* Fixed - 404 visualization responsiveness issue
+
+Version 3.0.0
+* Added - Premium plugin Yellow Pencil for easy frontend CSS customization
+* Added - Footer builder for more simple, but advenced building experience
+* Added - Option to change new tag show duration (thanks to Themeforest user @EFL13)
+* Improved - Theme settings header is now sticky and "Save Changes" button is allways available
+* Improved - Ease of use various elements by better sorting options
+* Updated - WPbakery Page builder to 5.6 version
+* Updated - Gillion branding in admin settings
+* Fixed - Some WooCommerce styling issues
+* Fixed - PHP notice issue in WPbakery page builder elements
+* Fixed - WooCommerce outdated files
+* Fixed - Blog posts new title style sometimes doesn't work
+
+Version 2.2.8
+* Improved - 404 page responsiveness
+* Fixed - Blog slider issue with previous and next items with multiple carousels
+* Fixed - Some posts won't show in mega menu
+* Fixed - Basic blog posts element PHP related issue
+* Fixed - iPad landscape responsive dropdown closes after scroll action
+
+Version 2.2.7
+* Fixed - Demo installation issue in some cases
+
+Version 2.2.6
+* Updated - WPbakery Page builder to 5.5.4 version
+* Updated - Links to HTTPS everywhere where it is possible
+* Fixed - Theme settings reverts to default in SSL mode (in some cases)
+* Fixed - Theme settings font issue after demo installation (in some cases)
+
+Version 2.2.5
+* Fixed - Posts load more issue
+
+Version 2.2.4
+* Improved - Theme Settings Styling tab ease of use
+* Updated - Envato Market Plugin to latest version
+* Fixed - Translation issue in a few places
+* Fixed - Instagram widget image issue
+
+Version 2.2.3
+* Updated - Screenshot for both parent and child themes
+
+Version 2.2.2
+* Added - New items to modular templates
+* Added - Title hover color option for heading element
+* Added - Shadow option for single image element
+* Added - Border options for single image element
+* Added - Overlay options for single image element
+* Added - Extra options for column and row
+* Added - New header and titlebar styles
+* Added - Many more icons to choose from in WPbakery page builder
+* Improved - Header layout names for better understanding
+* Improved - Unyson demo installer demo order
+* Improved - WPbakery page builder page loading
+* Improved - One click demo installer design
+* Fixed - Theme settings won't generate correctly in some cases
+
+Version 2.2.1
+* Added - List element
+* Added - Seperator element
+* Added - Single image element
+* Added - Font size option to button element
+* Added - Link and link target options to heading element
+* Added - Max width option to text block element
+* Added - Option to enable labels in WooCommerce checkout
+* Improved - Theme color scheme in some places
+* Fixed - Load more and infinite scroll option displays duplicate posts
+* Fixed - Blog post categories PHP notice issue
+* Fixed - Visul Composer templates not working
+* Fixed - Issue with "blog" page link in some cases
+
+Version 2.2.0
+* Added - Magazine demo
+* Added - Source and Via options for blog posts
+* Added - Empty space (responsive) element
+* Added - Post Categories widget
+* Added - Option to change categories position
+* Added - Ads section in theme settings
+* Added - Option to change title and categories hover color for varions VC elements
+* Added - Option to change description length (excerpt) in theme settings
+* Added - Option to choose slider/gallery icon style in theme settings
+* Added - Option to show review posts only in Recent Posts element
+* Added - Option to disable categories for blog posts element
+* Added - Option to choose post switch style in theme settings
+* Added - Option to choose blockqute style in theme settings
+* Fixed - Developer copyrights can't be disabled
+* Fixed - Cookies notice can't be disabled
+* Fixed - Blog style not working in theme settings
+* Deprecased - Recent Posts widget to Recent Posts (outdated)
+* Improved - Theme overall responsivness
+
+Version 2.1.0
+* Added - Option to change global carousel button style
+* Added - Option to change global carousel button position
+* Added - Option to change global title style
+* Added - Mosaic slider to blog slider element
+* Added - Option to fully disable instagram widgets section
+* Added - Visual Composer widgets area
+* Added - All blog post styles to blog posts basic element
+* Added - Option to enable dynamic load more button to blog posts basic element
+* Added - Option to change columns and enable follow button for instagram widget
+* Added - New style to recent posts V2 widget
+* Added - New style for text slider element
+* Added - New style for social counter widget
+* Added - New style for blog posts categories
+* Updated - Gillion dashboard with whats new section
+* Improved - File and folder structure
+* Improved - Responsive experience for mobile devices
+* Improved - WooCommerce product image crop size
+* Improved - Content and sidebar widget sizes
+* Improved - Theme front-end loading performance by optimising CSS/JS files
+* Improved - Theme front-end loading performance by optimising PHP side
+* Fixed - Can't change blog page post style in some cases
+* Fixed - SEO related issue in category and search result pages
+* Fixed - Multiple PHP 7.2 related notice issues
+* Fixed - Gillion dashboard child theme issue
+* Fixed - Media library not working in some cases
+
+Version 2.0.0
+* Added - Gillion dashboard
+* Added - Carousel Slider and Boxed Slider to OCDI demo installer
+* Added - Creative Slider and Full-Width Slider to OCDI demo installer
+* Added - Card Style and Background Image to OCDI demo installer
+* Added - Demo bundles with specific pages onnly to OCDI demo installer
+* Updated - Backend panel logo to new theme Logo
+* Deprecased - Unyson demo content installer is now fallback method
+* Removed - Unyson demo content installer links
+* Removed - WordPress Shortcodes and SEO Unyson Extensions to improve performance
+
+Version 1.6.0
+* Added - Shop demo
+* Added - Option to change post date format
+* Added - Option to show percentage for sale tag
+* Added - Option to change how many mega menu posts are shown
+* Added - Option to change mega menu categories order
+* Improved - Overall WooCommerce design compatibility
+* Fixed - WooCommerce issue when image ratio isn't working as expected
+* Fixed - Visual Composer showing black block when loading
+* Fixed - Visual Composer header background image not loading
+* Fixed - BBpress header layout is reverting to default
+
+Version 1.5.1
+* Added - Option to enable/disable wishlist icon in header
+* Added - Shop sidebar widget area
+* Fixed - Blank wishlist issues
+* Fixed - Shop search widget design
+
+Version 1.5.0
+* Added - Wishlist feature for WooCommerce shop
+* Added - WooCommerce categories element
+* Added - WooCommerce spotlight element
+* Added - WooCommerce products (dynamic) element
+* Added - Icons for Gillion WooCommerce elements
+* Added - Option to show black and white image for Shufflehound image widget
+* Added - Option to disable heading vertical accent line
+* Added - Option to change style for Shufflehound subscribe widget
+* Improved - Multiple product related widget design
+* Improved - Load more button design
+* Fixed - 3 columns in basic posts not working when using sidebar
+* Fixed - Blog posts offset issue
+* Fixed - Outdated Woocommerce files issue
+
+Version 1.4.3
+* Added - premium plugin "Revolution Slider"
+* Added - option to offset blog page template posts
+* Added - option to change blog page template posts order
+* Added - option to enable or disable WooCommerce cart icon in header
+* Added - option to enable or disable all blog posts meta data
+* Improved - Guest bookmark now opens login popup instead of showing tooltip
+* Fixed - Posts tabs and recent posts widgets will ignore sticky posts
+* Fixed - Text which can't be translated
+* Fixed - Share button not visible in mobile devices
+* Fixed - "Blog posts categories" element sometimes doesn't work
+
+Version 1.4.2
+* Added - Option to offset "Blog Posts" and "Blog Posts Basic" element posts
+* Added - Option to show image captions in single pages
+* Improved - Inline mobile navigation links now closes dropdown
+* Improved - Post view counting feature by skipping unpublished post views and admin views
+* Updated - "Shufflehound Instagram" widget is now outdated method and it's usage isn't recommended
+* Fixed - Order option not working correctly in "Blog Posts" and "Blog Posts Basic" element posts
+* Fixed - Blog page and mega menu options doesn't show all categories
+* Fixed - Fatal error in while getting started with theme
+* Fixed - Syntax issue regarding to multiple similar ID
+* Fixed - Infinite post loading issue in some cases
+* Fixed - Multiple responsiveness related issues
+* Fixed - Pagination alignment not working
+
+Version 1.4.1
+* Added - New posts loading method "Load more" button (under edit page - page settings)
+* Added - New posts loading method "Infinite" scrolling (under edit page - page settings)
+* Added - Option to select/customize social share icons (12 in total)
+* Improved - WooCommerce compatibility
+* Fixed - "Blog Posts Categories" not working correctly in some cases
+* Fixed - Some not translation ready words
+
+Version 1.4.0
+* Added - Basic WooCommerce support
+* Fixed - "Blog Posts Categories" categories not showing up in some cases
+* Fixed - "Blog Posts Categories" spacing issue
+* Fixed - "Blog Posts" element responsivnesse issue with 3 columns
+* Fixed - file:"helpers_blog.php" related error issue
+
+Version 1.3.6
+* Improved - Demo content installation page with more information about demo contents
+* Updated - WPBakery Page Builder (formerly Visual Composer) to the latest version
+* Fixed - Empty masonry post page in mobile devices
+
+Version 1.3.5
+* Fixed - Unyson Framework color picker is not working correctly in the latest version
+
+Version 1.3.4
+* Added - Gizmo News demo
+* Added - Styling options for blog text slider
+* Added - Envato Market Plugin for theme automatic updates
+* Improved - Mega menu carousel buttons now hides, when not used
+* Improved - Theme files structure
+* Improved - Some blog post responsiveness
+
+Version 1.3.3
+* Added - Blog text Slider element
+* Fixed - Missing Unyson color picker issue
+* Notice - Please skip Unyson 2.7.9 version if possible
+
+Version 1.3.2
+* Added - Categories page layout option under Blog
+* Updated - Visual Composer to the latest version
+* Improved - Reduced theme size to more than 50%
+* Improved - Theme installation time
+* Fixed - Comments responsive issue
+* Fixed - Blog slider (style 2,8), blog posts (card style) responsive issues
+* Improved - Closed comments design
+
+Version 1.3.1
+* Added - Missing template images
+* Updated - Slick.js carousel plugin
+
+Version 1.3.0
+* Added - Template system for more easier page building in Visual Composer
+* Renamed - "Blog Posts element" to "Blog Posts Basic"
+* Renamed - "Blog Posts Fancy" element to "Blog Posts"
+* Improved - "Blog Posts Basic", "Blog Posts" and "Blog Posts Categories" element options for ease of use
+* Improved - "Blog Categories" and "Blog Posts Categories" element which now shows most popular categories by default
+* Improved - Visual Composer template and element window design
+* Improved - Gillion element descriptions for better understanding
+* Fixed - "Blog Posts" element cover style loading animation and padding
+* Fixed - "Blog Posts" element limit option issue for 4 posts
+* Fixed - "Blog Posts Categories" element style 1 thumbnail design
+* Fixed - "Blog Slider" and "Blog Posts" elements some times freezes Visual Composer editor
+
+Version 1.2.8
+* Getting ready for new element template system
+* Improved - Blog slider whitespaces
+* Improved - Blog fancy posts option descriptions
+* Fixed - Blog posts categories element review crop issue
+* Fixed - Blog slider JavaScript issue in Visual Composer
+
+Version 1.2.7
+* Fixed mega menu date issue
+* Fixed login popup not working in some cases
+* Fixed blog slider style 4 autoplay not working
+
+Version 1.2.6
+* Updated - Visual Composer plugin
+* Fixed - Header search icon doesn't trigger submit
+
+Version 1.2.5
+* Fixed - Slider responsiveness issues
+* Fixed - Notice remember feature not working
+* Fixed - Can't disable sticky header
+* Fixed - Fatal error is some cases
+
+Version 1.2.4
+* Added - Travel demo
+* Updated - TGMPA to latest version
+* Updated - POT file
+* Improved - Image crop in a few places
+* Fixed - Can't disable sticky header
+
+Version 1.2.3
+* Added - Autoplay option for blog fancy posts
+* Added - Heading V2 element font change option
+* Added - Blog Posts Categories element Style 3
+* Added - Blog style Left/Right Mix (small)
+* Added - Blog slider uppercase title option
+* Added - Blog slider option to include some of new posts
+* Improved - Blog posts categories element style 2 design
+* Fixed - Large style blank element when no thumbnail selected
+* Fixed - Blog posts categories element whitespaces
+* Fixed - Log in/log out buttons translation issue
+
+Version 1.2.2
+* Added - new improved demo content installation method
+* Optimized - Image sizes for better loading speeds
+* Fixed - Footer Instagram alignment issue
+* Fixed - Categories element alignment issue
+* Fixed - Comments large whitespaces
+
+Version 1.2.1
+* Added mega menu posts loading animation
+* Added option to set topbar background image
+* Added global page layout option and improved description
+* Added option to show Twitter widget feed images
+* Added login icon option for navigation
+* Improved social networks element styling
+* Improved sidebar responsiveness
+* Fixed mobile search icon position
+* Fixed Internet Explorer masonry issue
+* Fixed post gallery random option not working
+* Fixed blog slider categories not working
+* Fixed header side menu widget loop issue
+* Fixed documentation and support forum sections not working in some cases
+
+Version 1.2.0
+* Added autoplay option with speed control for blog slider element
+* Added arrow controls for a few blog slider layouts
+* Added/updated a few plugins including Visual Composer
+* Added option to hide related posts
+* Improved post content galleries design with a new options
+* Improved Posts Slider widget ease of use and renamed to Recent Posts V2
+* Improved mega menu design for light header
+* Improved masonry layout loading performance
+* Improved content editor visual layout
+* Improved lightbox functionality
+* Improved related posts functionality
+* Fixed mega menu post slider animation issue
+* Fixed blog slider issue with sticky posts
+* Fixed header search box typo
+
+Version 1.1.4
+* Added hover colors for social icons dropdown
+* Added mega menu categories in responsive navigation
+* Improved overall page loading performance
+* Improved side menu and mega menu design
+* Improved page content styling
+* Fixed left post style responsive issue
+* Fixed a few SEO related issues
+
+Version 1.1.3
+* Added new element - Image container
+* Added gradient background option for button element
+* Added autoplay option for image gallery element
+
+Version 1.1.2
+* Added fashion demo
+* Added new blog post style
+* Added image gallery and social networks elements
+* Added new color option for button element
+
+Version 1.1.1
+* Added personal and clean demos
+* Added custom description for all Gillion Visual Composer elements
+* Added option to change opened post content font size
+* Fixed Visual Composer 5.2 frontend JavaScript issue
+* Fixed prev/next post block render issue
+* Improved single post slider responsivness
+
+Version 1.1.0
+* Added foodie demo
+* Added new element - Button V2
+* Added new page layouts
+* Added new blog page styles
+* Added new blog slider element style
+* Added new blog fancy posts element styles
+* Added new options for Text Block V2 and Heading V2 elements
+* Added new option to change featured blog post style
+* Added new option to set all blog post titles to uppercase
+* Added new option to disable side menu icon in header
+* Added new option to change widget heading font weight
+* Added new option to change footer widget section padding
+* Added new option for about us widgets
+* Added shortcode support for Text Block V2 element
+* Added "MailChimp for WordPress" to recommended plugin list
+* Updated Visual Composer to the latest version
+* Improved sticky header scrolling for layout 3
+* Improved backend output for gillion custom elements
+* Improved theme settings styling and ease of use
+* Fixed design options not working for multiple shufflehound elements
+* Fixed large image issue under featured post option
+* Fixed blog posts element column typo
+* Little code clean up
+
+Version 1.0.11
+* Added social share bar for mobile devices in single page
+* Added option to change text weight for Text Block V2
+* Added option to set text to uppercase for Text Block V2
+* Added option to add shadow for Text Block V2
+* Added option to set line height for Text Block V2
+* Fixed padding/margin option for Text Block V2
+* Changed Text block V2 default Text
+
+Version 1.0.10
+* Fixed fatal error when Visual Composer is disabled
+* Fixed view count is still visible after disable
+
+Version 1.0.9
+* Added login/signup button/lightbox in header
+* Added new tech demo
+* Added new slider layout
+* Added new posts layout
+* Improved fancy blog posts element
+* Fixed fatal error for widgets when Unyson plugin isn't activated
+
+Version 1.0.8
+* Added basic RTL support
+* Improved theme translations
+* Updated language .pot file
+* Removed some debugging related information
+
+Version 1.0.7
+* Added Lifestyle demo
+* Added Heading V2 and Text Block V2 elements to Visual Composer
+* Added option to center footer copyrights information
+* Added MailChimp for WordPress plugin support
+* Added option to add Instagram footer title
+* Updated customizer options
+* Improved customizer ease of use
+* Improved footer styling options
+* Improved theme responsive layouts
+* Updated Revolution Slider plugin
+* Fixed header style 4 issues
+* Fixed comments element link positon
+* Fixed author page SEO issue
+* Various other improvements
+
+Version 1.0.6
+* Various SEO improvements
+
+Version 1.0.5
+* Add 2 new slider layouts
+* Added new element Separator with Text 2
+* Added option to change categories font
+* Added option to change slider categories color
+* Added Mix style large for blog posts
+* Improved SEO in single post page
+* Improved theme translation and updated translation file
+* Fixed issue when header bookmark icon can't be disabled
+* Various other improvements
+
+Version 1.0.4
+* Added option to change/hide post meta for post slider element
+* Added option to change/hide bookmark button
+* Updated options description for better understanding
+* Improved folder and file structure
+* Improved Visual Composer compatibility
+* Fixed search page layout issues
+* Fixed mix layout responsive issues
+* Fixed header position issue
+* Various other improvements
+
+Version 1.0.3
+* Added new homepage - home 6
+* Added option to hide Instagram feed on specific pages
+* Improved theme setting options
+
+Version 1.0.2
+* Updated theme description
+* Improved Visual Composer compatibility
+* Improved SEO
+
+Version 1.0.1
+* Added full Visual Composer support
+* Updated demo content
+* Fixed a few bugs
+
+Version 1.0.0
+* Initial release

@@ -1,0 +1,55 @@
+
+---Downloaded files---
+The import files for: Clean were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/blog
+Data file = C:\wamp64\www\blog/wp-content/uploads/2020/05/demo-content-import-file_2020-05-28__11-50-18.xml
+Widget file = C:\wamp64\www\blog/wp-content/uploads/2020/05/demo-widgets-import-file_2020-05-28__11-50-18.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Blog Widgets : 
+
+Shufflehound Twitter - Twitter - Imported
+Shufflehound Facebook - Facebook - Imported
+
+Header Side Menu Widgets : 
+
+Search - Search - Imported
+Categories - No Title - Imported
+
+Footer 1 Widgets : 
+
+Shufflehound About Us - About Us - Imported
+
+Footer 2 Widgets : 
+
+Tag Cloud - Hot Tags - Imported
+
+Footer 3 Widgets : 
+
+Categories - Category - Imported
+
+
+
+---pt-ocdi/after_import---
+
