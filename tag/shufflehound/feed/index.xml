@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shufflehound &#8211; Blog</title>
+	<atom:link href="https://abrhamelm.github.io/blog/tag/shufflehound/feed/" rel="self" type="application/rss+xml" />
+	<link>https://abrhamelm.github.io/blog</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 06 Jan 2017 18:16:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>Website that you should check out</title>
+		<link>https://abrhamelm.github.io/blog/2017/01/06/website-that-you-should-check-out/</link>
+					<comments>https://abrhamelm.github.io/blog/2017/01/06/website-that-you-should-check-out/#respond</comments>
+		
+		<dc:creator><![CDATA[blog]]></dc:creator>
+		<pubDate>Fri, 06 Jan 2017 18:16:50 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Shufflehound]]></category>
+		<guid isPermaLink="false">http://cdn.gillion.shufflehound.com/clean/?p=476</guid>
+
+					<description><![CDATA[Sed sit amet augue vitae nibh scelerisque facilisis eu nec quam. Pellentesque sagittis quis sapien sit amet fringilla. Quisque nec mi at sem pellentesque tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ut tristique ligula. Duis congue pulvinar...]]></description>
+										<content:encoded><![CDATA[<p><span class="sh-dropcaps-full-square" style="font-size: 18px;">S</span>ed sit amet augue vitae nibh scelerisque facilisis eu nec quam. Pellentesque sagittis quis sapien sit amet fringilla. Quisque nec mi at sem pellentesque tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas ut tristique ligula. Duis congue pulvinar leo, in ornare lectus malesuada sit amet. Pellentesque sollicitudin dignissim lobortis. Pellentesque eget nibh cursus, luctus nunc eget, gravida nisi. Suspendisse hendrerit ipsum orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pretium rutrum enim interdum rutrum. Proin interdum neque et molestie pretium.</p>
+<p>Aliquam nisi ipsum, pretium sit amet faucibus non, porttitor ut orci. Duis eget ullamcorper mauris, vitae placerat massa. Aliquam erat volutpat. Nunc eget quam ac dui hendrerit vestibulum sit amet sed leo. Vestibulum eleifend porttitor metus, sed tempor sapien pretium vel. Mauris feugiat hendrerit accumsan. Nulla dapibus diam dignissim magna ornare, ut sollicitudin purus rhoncus. In felis nisl, pulvinar in felis ac, tristique malesuada turpis. Vestibulum at ante arcu. Quisque lectus massa, malesuada in augue nec, hendrerit hendrerit ante. Sed facilisis eros facilisis dictum luctus. Aliquam eget gravida urna, iaculis interdum metus. Aenean quis lacinia sem, a facilisis neque. Duis dictum fermentum est, eget tincidunt erat. Ut ut ornare ligula, quis semper sem. Proin a justo ut augue porttitor pulvinar ac id urna.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://abrhamelm.github.io/blog/2017/01/06/website-that-you-should-check-out/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

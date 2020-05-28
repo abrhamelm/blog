@@ -1847,7 +1847,7 @@ html .menu-item a {
 	display: inline-block;
 	width: 33px;
 	height: 16px;
-	background-image: url(img/new.png);
+	background-image: url(https://abrhamelm.github.io/blog/wp-content/themes/gillion/img/new.png);
 	position: relative;
 	right: -4px;
 	top: -3px;
@@ -2689,7 +2689,7 @@ html .menu-item a {
 	opacity: 0;
 	transition: 0.3s all ease-in-out;
 	cursor: pointer;
-	cursor: url( 'img/cursor.png' ), auto;
+	cursor: url( 'https://abrhamelm.github.io/blog/wp-content/themes/gillion/img/cursor.png' ), auto;
 }
 
 .sh-header-side h3 {
@@ -8199,7 +8199,7 @@ body .sh-footer-instagram .null-instagram-feed .instagram-pics li {
 .sh-widget-facebook-item {
 	position: relative;
 	min-height: 214px;
-	background-image: url(img/facebook_placeholder.png);
+	background-image: url(https://abrhamelm.github.io/blog/wp-content/themes/gillion/img/facebook_placeholder.png);
 	border-radius: 8px;
 	overflow: hidden;
 }

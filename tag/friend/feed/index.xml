@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Friend &#8211; Blog</title>
+	<atom:link href="https://abrhamelm.github.io/blog/tag/friend/feed/" rel="self" type="application/rss+xml" />
+	<link>https://abrhamelm.github.io/blog</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 31 Jan 2017 20:21:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>Review Of My New Furry Pet Friend</title>
+		<link>https://abrhamelm.github.io/blog/2017/01/31/review-of-my-new-furry-pet-friend/</link>
+					<comments>https://abrhamelm.github.io/blog/2017/01/31/review-of-my-new-furry-pet-friend/#comments</comments>
+		
+		<dc:creator><![CDATA[blog]]></dc:creator>
+		<pubDate>Tue, 31 Jan 2017 20:21:04 +0000</pubDate>
+				<category><![CDATA[Animals]]></category>
+		<category><![CDATA[Friend]]></category>
+		<category><![CDATA[pet]]></category>
+		<category><![CDATA[review]]></category>
+		<guid isPermaLink="false">http://cdn.gillion.shufflehound.com/clean/?p=71</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam laoreet, nunc et accumsan cursus, neque eros sodales lectus, in fermentum libero dui eu lacus. Nam lobortis facilisis sapien non aliquet. Aenean ligula urna, vehicula placerat sodales vel, tempor et orci. Donec molestie metus a sagittis...]]></description>
+										<content:encoded><![CDATA[<p><span class="sh-dropcaps" style="font-size: 18px;">L</span>orem ipsum dolor sit amet, consectetur adipiscing elit. Nam laoreet, nunc et accumsan cursus, neque eros sodales lectus, in fermentum libero dui eu lacus. Nam lobortis facilisis sapien non aliquet. Aenean ligula urna, vehicula placerat sodales vel, tempor et orci. Donec molestie metus a sagittis condimentum. Duis vulputate lectus massa, vel viverra sem interdum sit amet. In pulvinar arcu id nisi eleifend, in placerat velit tempor. Sed volutpat orci nec velit cursus posuere.</p>
+<p>Nulla congue mi sed enim venenatis, eu suscipit neque dictum. Integer nec eros nibh.Morbi fermentum purus metus, eu consequat est congue ut. Proin ut eros ac tortor imperdiet convallis nec eu dui. Curabitur sed fermentum arcu. Vestibulum sed egestas purus. Donec dapibus malesuada eros quis suscipit. Praesent fermentum ipsum nec elit finibus, at cursus augue maximus. Praesent blandit efficitur bibendum. Integer tincidunt iaculis nunc, eget pharetra sem eleifend faucibus. Sed fermentum massa vitae sapien sodales, quis feugiat dolor condimentum.</p>
+<p>Donec suscipit, neque in cursus blandit, risus ex laoreet purus, a pulvinar eros odio sit amet magna. Donec nec ligula nibh. Duis ac mi et neque viverra tempus eu sit amet dui. Nam ac posuere nunc, non laoreet sem. Ut in mauris nisl. Sed ultricies, ligula vitae interdum dapibus, enim nunc porta odio, et porta ligula ipsum sit amet leo. Phasellus porta quam est, quis gravida felis feugiat quis. Sed nisl augue, sodales sit amet sapien vel, dapibus posuere leo. Donec feugiat feugiat aliquet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In elementum erat ornare tincidunt lobortis. Nulla ac nunc vitae nunc sodales egestas vel eget dui. Nam efficitur posuere varius.</p>
+<p>&nbsp;</p>
+<blockquote><p>You only live nine times, but if you do it right, nine is enough.</p></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://abrhamelm.github.io/blog/2017/01/31/review-of-my-new-furry-pet-friend/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
